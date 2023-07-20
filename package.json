@@ -1,0 +1,19 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "biblioteca - api - expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BMancilla23/Biblioteca_api_ExpressJs"
+  },
+  "author": "Bryan Mancilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BMancilla23/Biblioteca_api_ExpressJs/issues"
+  },
+  "homepage": "https://github.com/BMancilla23/Biblioteca_api_ExpressJs#readme"
+}
